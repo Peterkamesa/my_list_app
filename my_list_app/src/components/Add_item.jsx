@@ -23,7 +23,7 @@ const Add_item = ({ onAdd_item }) => {
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
         onKeyPress={handleKeyPress}
-        placeholder="Enter an item..."
+        placeholder="Enter an item"
       />
       <button onClick={handleAdd_item}>Add Item</button>
     </div>
