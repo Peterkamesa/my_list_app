@@ -12,12 +12,19 @@ A simple list application built with vite and React that allows users to add and
 - Clean UI with empty state message
 
 ## Project Structure
-src/
+## src/
 ├── App.jsx # Main application component
+
 ├── App.css # Main styles
+
 ├── components/
+
 │ ├── Add_item.jsx # Input component for adding items
+
 │ ├── Header.jsx # Header component
+
 │ └── Item_list.jsx # Component to display the list
-public/
+
+## public/
+
 ├── index.html # Main HTML file
