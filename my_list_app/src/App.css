@@ -42,8 +42,9 @@
 }
 h1 {
   color: #16ad73;
-  text-align: center;
+  text-align: left;
   margin-bottom: 25px;
+  font-size: 30px;
 }
 
 .input-container {
@@ -113,7 +114,7 @@ button:hover {
 }
 
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:  sans-serif;
   background-color: #161515;
   margin: 0;
   padding: 20px;
@@ -129,5 +130,5 @@ body {
   box-shadow: 0 4px 6px rgba(236, 234, 234, 0.1);
   padding: 30px;
   width: 100%;
-  max-width: 500px;
+  max-width: 1200px;
 }
